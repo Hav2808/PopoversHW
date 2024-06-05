@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fsfayt0rxulyb2py?svg=true)](https://ci.appveyor.com/project/Hav2808/popovershw)
+
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 
